@@ -1,0 +1,36 @@
+.sidebar {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.tabs {
+  display: flex;
+  justify-content: space-around;
+  background-color: #e0e0e0;
+  padding: 10px 0;
+}
+
+.tabs button {
+  background: none;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s;
+}
+
+.tabs button:hover {
+  background-color: #d0d0d0;
+}
+
+.tabs button.active {
+  background-color: #c0c0c0;
+  font-weight: bold;
+}
+
+.tabContent {
+  flex: 1;
+  padding: 20px;
+  overflow-y: auto;
+}

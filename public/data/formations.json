@@ -1,0 +1,1712 @@
+{
+  "formation": [
+    {
+      "id": 1,
+      "name": "4-4-2",
+      "position": [
+        {
+          "index": 1,
+          "handle": "G",
+          "name": "Goalkeeper"
+        },
+        {
+          "index": 2,
+          "handle": "D",
+          "name": "Right back"
+        },
+        {
+          "index": 3,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 4,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 5,
+          "handle": "D",
+          "name": "Left back"
+        },
+        {
+          "index": 6,
+          "handle": "M",
+          "name": "Right winger"
+        },
+        {
+          "index": 7,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 8,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 9,
+          "handle": "M",
+          "name": "Left winger"
+        },
+        {
+          "index": 10,
+          "handle": "F",
+          "name": "Striker"
+        },
+        {
+          "index": 11,
+          "handle": "F",
+          "name": "Striker"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "4-4-1-1",
+      "position": [
+        {
+          "index": 1,
+          "handle": "G",
+          "name": "Goalkeeper"
+        },
+        {
+          "index": 2,
+          "handle": "D",
+          "name": "Right back"
+        },
+        {
+          "index": 3,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 4,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 5,
+          "handle": "D",
+          "name": "Left back"
+        },
+        {
+          "index": 6,
+          "handle": "M",
+          "name": "Right winger"
+        },
+        {
+          "index": 7,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 8,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 9,
+          "handle": "M",
+          "name": "Left winger"
+        },
+        {
+          "index": 10,
+          "handle": "F",
+          "name": "Striker"
+        },
+        {
+          "index": 11,
+          "handle": "F",
+          "name": "Striker"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "4-3-3",
+      "position": [
+        {
+          "index": 1,
+          "handle": "G",
+          "name": "Goalkeeper"
+        },
+        {
+          "index": 2,
+          "handle": "D",
+          "name": "Right back"
+        },
+        {
+          "index": 3,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 4,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 5,
+          "handle": "D",
+          "name": "Left back"
+        },
+        {
+          "index": 6,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 7,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 8,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 9,
+          "handle": "F",
+          "name": "Striker"
+        },
+        {
+          "index": 10,
+          "handle": "F",
+          "name": "Striker"
+        },
+        {
+          "index": 11,
+          "handle": "F",
+          "name": "Striker"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "4-5-1",
+      "position": [
+        {
+          "index": 1,
+          "handle": "G",
+          "name": "Goalkeeper"
+        },
+        {
+          "index": 2,
+          "handle": "D",
+          "name": "Right back"
+        },
+        {
+          "index": 3,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 4,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 5,
+          "handle": "D",
+          "name": "Left back"
+        },
+        {
+          "index": 6,
+          "handle": "M",
+          "name": "Right winger"
+        },
+        {
+          "index": 7,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 8,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 9,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 10,
+          "handle": "M",
+          "name": "Left winger"
+        },
+        {
+          "index": 11,
+          "handle": "F",
+          "name": "Striker"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "5-3-2",
+      "position": [
+        {
+          "index": 1,
+          "handle": "G",
+          "name": "Goalkeeper"
+        },
+        {
+          "index": 2,
+          "handle": "D",
+          "name": "Right back"
+        },
+        {
+          "index": 3,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 4,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 5,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 6,
+          "handle": "D",
+          "name": "Left back"
+        },
+        {
+          "index": 7,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 8,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 9,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 10,
+          "handle": "F",
+          "name": "Striker"
+        },
+        {
+          "index": 11,
+          "handle": "F",
+          "name": "Striker"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "3-5-2",
+      "position": [
+        {
+          "index": 1,
+          "handle": "G",
+          "name": "Goalkeeper"
+        },
+        {
+          "index": 2,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 3,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 4,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 5,
+          "handle": "M",
+          "name": "Right winger"
+        },
+        {
+          "index": 6,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 7,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 8,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 9,
+          "handle": "M",
+          "name": "Left winger"
+        },
+        {
+          "index": 10,
+          "handle": "F",
+          "name": "Striker"
+        },
+        {
+          "index": 11,
+          "handle": "F",
+          "name": "Striker"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "4-2-3-1",
+      "position": [
+        {
+          "index": 1,
+          "handle": "G",
+          "name": "Goalkeeper"
+        },
+        {
+          "index": 2,
+          "handle": "D",
+          "name": "Right back"
+        },
+        {
+          "index": 3,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 4,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 5,
+          "handle": "D",
+          "name": "Left back"
+        },
+        {
+          "index": 6,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 7,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 8,
+          "handle": "M",
+          "name": "Right winger"
+        },
+        {
+          "index": 9,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 10,
+          "handle": "M",
+          "name": "Left winger"
+        },
+        {
+          "index": 11,
+          "handle": "F",
+          "name": "Striker"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "5-4-1",
+      "position": [
+        {
+          "index": 1,
+          "handle": "G",
+          "name": "Goalkeeper"
+        },
+        {
+          "index": 2,
+          "handle": "D",
+          "name": "Right back"
+        },
+        {
+          "index": 3,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 4,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 5,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 6,
+          "handle": "D",
+          "name": "Left back"
+        },
+        {
+          "index": 7,
+          "handle": "M",
+          "name": "Right winger"
+        },
+        {
+          "index": 8,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 9,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 10,
+          "handle": "M",
+          "name": "Left winger"
+        },
+        {
+          "index": 11,
+          "handle": "F",
+          "name": "Striker"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "3-4-3",
+      "position": [
+        {
+          "index": 1,
+          "handle": "G",
+          "name": "Goalkeeper"
+        },
+        {
+          "index": 2,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 3,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 4,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 5,
+          "handle": "M",
+          "name": "Right winger"
+        },
+        {
+          "index": 6,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 7,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 8,
+          "handle": "M",
+          "name": "Left winger"
+        },
+        {
+          "index": 9,
+          "handle": "F",
+          "name": "Striker"
+        },
+        {
+          "index": 10,
+          "handle": "F",
+          "name": "Striker"
+        },
+        {
+          "index": 11,
+          "handle": "F",
+          "name": "Striker"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "4-1-3-2",
+      "position": [
+        {
+          "index": 1,
+          "handle": "G",
+          "name": "Goalkeeper"
+        },
+        {
+          "index": 2,
+          "handle": "D",
+          "name": "Right back"
+        },
+        {
+          "index": 3,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 4,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 5,
+          "handle": "D",
+          "name": "Left back"
+        },
+        {
+          "index": 6,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 7,
+          "handle": "M",
+          "name": "Right winger"
+        },
+        {
+          "index": 8,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 9,
+          "handle": "M",
+          "name": "Left winger"
+        },
+        {
+          "index": 10,
+          "handle": "F",
+          "name": "Striker"
+        },
+        {
+          "index": 11,
+          "handle": "F",
+          "name": "Striker"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "4-3-1-2",
+      "position": [
+        {
+          "index": 1,
+          "handle": "G",
+          "name": "Goalkeeper"
+        },
+        {
+          "index": 2,
+          "handle": "D",
+          "name": "Right back"
+        },
+        {
+          "index": 3,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 4,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 5,
+          "handle": "D",
+          "name": "Left back"
+        },
+        {
+          "index": 6,
+          "handle": "M",
+          "name": "Right winger"
+        },
+        {
+          "index": 7,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 8,
+          "handle": "M",
+          "name": "Left winger"
+        },
+        {
+          "index": 9,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 10,
+          "handle": "F",
+          "name": "Striker"
+        },
+        {
+          "index": 11,
+          "handle": "F",
+          "name": "Striker"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "4-2-2-2",
+      "position": [
+        {
+          "index": 1,
+          "handle": "G",
+          "name": "Goalkeeper"
+        },
+        {
+          "index": 2,
+          "handle": "D",
+          "name": "Right back"
+        },
+        {
+          "index": 3,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 4,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 5,
+          "handle": "D",
+          "name": "Left back"
+        },
+        {
+          "index": 6,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 7,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 8,
+          "handle": "M",
+          "name": "Right winger"
+        },
+        {
+          "index": 9,
+          "handle": "M",
+          "name": "Left winger"
+        },
+        {
+          "index": 10,
+          "handle": "F",
+          "name": "Striker"
+        },
+        {
+          "index": 11,
+          "handle": "F",
+          "name": "Striker"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "3-4-1-2",
+      "position": [
+        {
+          "index": 1,
+          "handle": "G",
+          "name": "Goalkeeper"
+        },
+        {
+          "index": 2,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 3,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 4,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 5,
+          "handle": "M",
+          "name": "Right winger"
+        },
+        {
+          "index": 6,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 7,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 8,
+          "handle": "M",
+          "name": "Left winger"
+        },
+        {
+          "index": 9,
+          "handle": "F",
+          "name": "Striker"
+        },
+        {
+          "index": 10,
+          "handle": "F",
+          "name": "Striker"
+        },
+        {
+          "index": 11,
+          "handle": "F",
+          "name": "Striker"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "5-2-3",
+      "position": [
+        {
+          "index": 1,
+          "handle": "G",
+          "name": "Goalkeeper"
+        },
+        {
+          "index": 2,
+          "handle": "D",
+          "name": "Right back"
+        },
+        {
+          "index": 3,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 4,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 5,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 6,
+          "handle": "D",
+          "name": "Left back"
+        },
+        {
+          "index": 7,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 8,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 9,
+          "handle": "F",
+          "name": "Striker"
+        },
+        {
+          "index": 10,
+          "handle": "F",
+          "name": "Striker"
+        },
+        {
+          "index": 11,
+          "handle": "F",
+          "name": "Striker"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "4-3-2-1",
+      "position": [
+        {
+          "index": 1,
+          "handle": "G",
+          "name": "Goalkeeper"
+        },
+        {
+          "index": 2,
+          "handle": "D",
+          "name": "Right back"
+        },
+        {
+          "index": 3,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 4,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 5,
+          "handle": "D",
+          "name": "Left back"
+        },
+        {
+          "index": 6,
+          "handle": "M",
+          "name": "Right winger"
+        },
+        {
+          "index": 7,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 8,
+          "handle": "M",
+          "name": "Left winger"
+        },
+        {
+          "index": 9,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 10,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 11,
+          "handle": "F",
+          "name": "Striker"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "4-1-4-1",
+      "position": [
+        {
+          "index": 1,
+          "handle": "G",
+          "name": "Goalkeeper"
+        },
+        {
+          "index": 2,
+          "handle": "D",
+          "name": "Right back"
+        },
+        {
+          "index": 3,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 4,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 5,
+          "handle": "D",
+          "name": "Left back"
+        },
+        {
+          "index": 6,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 7,
+          "handle": "M",
+          "name": "Right winger"
+        },
+        {
+          "index": 8,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 9,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 10,
+          "handle": "M",
+          "name": "Left winger"
+        },
+        {
+          "index": 11,
+          "handle": "F",
+          "name": "Striker"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "4-1-2-3",
+      "position": [
+        {
+          "index": 1,
+          "handle": "G",
+          "name": "Goalkeeper"
+        },
+        {
+          "index": 2,
+          "handle": "D",
+          "name": "Right back"
+        },
+        {
+          "index": 3,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 4,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 5,
+          "handle": "D",
+          "name": "Left back"
+        },
+        {
+          "index": 6,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 7,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 8,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 9,
+          "handle": "F",
+          "name": "Striker"
+        },
+        {
+          "index": 10,
+          "handle": "F",
+          "name": "Striker"
+        },
+        {
+          "index": 11,
+          "handle": "F",
+          "name": "Striker"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "3-1-4-2",
+      "position": [
+        {
+          "index": 1,
+          "handle": "G",
+          "name": "Goalkeeper"
+        },
+        {
+          "index": 2,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 3,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 4,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 5,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 6,
+          "handle": "M",
+          "name": "Right winger"
+        },
+        {
+          "index": 7,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 8,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 9,
+          "handle": "M",
+          "name": "Left winger"
+        },
+        {
+          "index": 10,
+          "handle": "F",
+          "name": "Striker"
+        },
+        {
+          "index": 11,
+          "handle": "F",
+          "name": "Striker"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "3-3-1-3",
+      "position": [
+        {
+          "index": 1,
+          "handle": "G",
+          "name": "Goalkeeper"
+        },
+        {
+          "index": 2,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 3,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 4,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 5,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 6,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 7,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 8,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 9,
+          "handle": "F",
+          "name": "Striker"
+        },
+        {
+          "index": 10,
+          "handle": "F",
+          "name": "Striker"
+        },
+        {
+          "index": 11,
+          "handle": "F",
+          "name": "Striker"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "3-3-3-1",
+      "position": [
+        {
+          "index": 1,
+          "handle": "G",
+          "name": "Goalkeeper"
+        },
+        {
+          "index": 2,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 3,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 4,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 5,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 6,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 7,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 8,
+          "handle": "M",
+          "name": "Right winger"
+        },
+        {
+          "index": 9,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 10,
+          "handle": "M",
+          "name": "Left winger"
+        },
+        {
+          "index": 11,
+          "handle": "F",
+          "name": "Striker"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "3-4-2-1",
+      "position": [
+        {
+          "index": 1,
+          "handle": "G",
+          "name": "Goalkeeper"
+        },
+        {
+          "index": 2,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 3,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 4,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 5,
+          "handle": "M",
+          "name": "Right winger"
+        },
+        {
+          "index": 6,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 7,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 8,
+          "handle": "M",
+          "name": "Left winger"
+        },
+        {
+          "index": 9,
+          "handle": "F",
+          "name": "Striker"
+        },
+        {
+          "index": 10,
+          "handle": "F",
+          "name": "Striker"
+        },
+        {
+          "index": 11,
+          "handle": "F",
+          "name": "Striker"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "3-5-1-1",
+      "position": [
+        {
+          "index": 1,
+          "handle": "G",
+          "name": "Goalkeeper"
+        },
+        {
+          "index": 2,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 3,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 4,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 5,
+          "handle": "M",
+          "name": "Right winger"
+        },
+        {
+          "index": 6,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 7,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 8,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 9,
+          "handle": "M",
+          "name": "Left winger"
+        },
+        {
+          "index": 10,
+          "handle": "F",
+          "name": "Striker"
+        },
+        {
+          "index": 11,
+          "handle": "F",
+          "name": "Striker"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "4-1-2-1-2",
+      "position": [
+        {
+          "index": 1,
+          "handle": "G",
+          "name": "Goalkeeper"
+        },
+        {
+          "index": 2,
+          "handle": "D",
+          "name": "Right back"
+        },
+        {
+          "index": 3,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 4,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 5,
+          "handle": "D",
+          "name": "Left back"
+        },
+        {
+          "index": 6,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 7,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 8,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 9,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 10,
+          "handle": "F",
+          "name": "Striker"
+        },
+        {
+          "index": 11,
+          "handle": "F",
+          "name": "Striker"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "4-2-1-2-1",
+      "position": [
+        {
+          "index": 1,
+          "handle": "G",
+          "name": "Goalkeeper"
+        },
+        {
+          "index": 2,
+          "handle": "D",
+          "name": "Right back"
+        },
+        {
+          "index": 3,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 4,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 5,
+          "handle": "D",
+          "name": "Left back"
+        },
+        {
+          "index": 6,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 7,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 8,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 9,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 10,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 11,
+          "handle": "F",
+          "name": "Striker"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "4-2-1-3",
+      "position": [
+        {
+          "index": 1,
+          "handle": "G",
+          "name": "Goalkeeper"
+        },
+        {
+          "index": 2,
+          "handle": "D",
+          "name": "Right back"
+        },
+        {
+          "index": 3,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 4,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 5,
+          "handle": "D",
+          "name": "Left back"
+        },
+        {
+          "index": 6,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 7,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 8,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 9,
+          "handle": "F",
+          "name": "Striker"
+        },
+        {
+          "index": 10,
+          "handle": "F",
+          "name": "Striker"
+        },
+        {
+          "index": 11,
+          "handle": "F",
+          "name": "Striker"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "4-2-4",
+      "position": [
+        {
+          "index": 1,
+          "handle": "G",
+          "name": "Goalkeeper"
+        },
+        {
+          "index": 2,
+          "handle": "D",
+          "name": "Right back"
+        },
+        {
+          "index": 3,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 4,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 5,
+          "handle": "D",
+          "name": "Left back"
+        },
+        {
+          "index": 6,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 7,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 8,
+          "handle": "M",
+          "name": "Right winger"
+        },
+        {
+          "index": 9,
+          "handle": "F",
+          "name": "Striker"
+        },
+        {
+          "index": 10,
+          "handle": "F",
+          "name": "Striker"
+        },
+        {
+          "index": 11,
+          "handle": "M",
+          "name": "Left winger"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "5-2-1-2",
+      "position": [
+        {
+          "index": 1,
+          "handle": "G",
+          "name": "Goalkeeper"
+        },
+        {
+          "index": 2,
+          "handle": "D",
+          "name": "Right back"
+        },
+        {
+          "index": 3,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 4,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 5,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 6,
+          "handle": "D",
+          "name": "Left back"
+        },
+        {
+          "index": 7,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 8,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 9,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 10,
+          "handle": "F",
+          "name": "Striker"
+        },
+        {
+          "index": 11,
+          "handle": "F",
+          "name": "Striker"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "name": "5-2-2-1",
+      "position": [
+        {
+          "index": 1,
+          "handle": "G",
+          "name": "Goalkeeper"
+        },
+        {
+          "index": 2,
+          "handle": "D",
+          "name": "Right back"
+        },
+        {
+          "index": 3,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 4,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 5,
+          "handle": "D",
+          "name": "Central defender"
+        },
+        {
+          "index": 6,
+          "handle": "D",
+          "name": "Left back"
+        },
+        {
+          "index": 7,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 8,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 9,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 10,
+          "handle": "M",
+          "name": "Central midfielder"
+        },
+        {
+          "index": 11,
+          "handle": "F",
+          "name": "Striker"
+        }
+      ]
+    }
+  ]
+}

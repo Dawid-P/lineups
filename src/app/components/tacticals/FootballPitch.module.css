@@ -1,0 +1,133 @@
+.pitchContainer {
+  width: 95%;
+  max-width: none;
+  margin: 0 auto;
+  padding-top: 66.67%; /* 3:2 aspect ratio */
+  position: relative;
+  background-color: #038c03;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.pitch {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.middleLine {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  right: 0;
+  height: 2px;
+  background-color: white;
+}
+
+.centerCircle {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 20%;
+  height: 0;
+  padding-bottom: 20%;
+  border: 2px solid white;
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.centerSpot {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 2%;
+  height: 0;
+  padding-bottom: 2%;
+  background-color: white;
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.penaltyArea {
+  position: absolute;
+  left: 0;
+  right: 0;
+  height: 20%;
+  border: 2px solid white;
+}
+
+.penaltyAreaTop {
+  top: 0;
+  border-bottom: none;
+}
+
+.penaltyAreaBottom {
+  bottom: 0;
+  border-top: none;
+}
+
+.goalArea {
+  position: absolute;
+  left: 30%;
+  right: 30%;
+  height: 10%;
+  border: 2px solid white;
+}
+
+.goalAreaTop {
+  top: 0;
+  border-bottom: none;
+}
+
+.goalAreaBottom {
+  bottom: 0;
+  border-top: none;
+}
+
+.goal {
+  position: absolute;
+  left: 45%;
+  right: 45%;
+  height: 3%;
+  background-color: white;
+}
+
+.goalTop {
+  top: -1.5%;
+}
+
+.goalBottom {
+  bottom: -1.5%;
+}
+
+.player {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  cursor: move;
+  user-select: none;
+}
+
+.playerDot {
+  width: 30px;
+  height: 30px;
+  background-color: white;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto 5px;
+  font-size: 14px;
+  font-weight: bold;
+  color: #000;
+}
+
+.playerName {
+  color: white;
+  font-size: 12px;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+  white-space: nowrap;
+}

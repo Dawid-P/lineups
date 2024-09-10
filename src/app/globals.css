@@ -40,3 +40,11 @@ a {
     color-scheme: dark;
   }
 }
+
+input {
+  all: unset;
+  /* Then reapply necessary styles */
+  box-sizing: border-box;
+  font-family: inherit;
+  font-size: inherit;
+}

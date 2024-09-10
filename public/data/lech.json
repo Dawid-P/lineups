@@ -1,0 +1,272 @@
+{
+  "GetPlayerListByTeamId": {
+    "players": [
+      {
+        "name": "Valdez, Diana",
+        "name_first": "Diana",
+        "name_last": "Valdez",
+        "shirt_number": 22,
+        "plain_player_id": 849525
+      },
+      {
+        "name": "Olson, Scott",
+        "name_first": "Scott",
+        "name_last": "Olson",
+        "shirt_number": 66,
+        "plain_player_id": 503101
+      },
+      {
+        "name": "Murray, Andrew",
+        "name_first": "Andrew",
+        "name_last": "Murray",
+        "shirt_number": 65,
+        "plain_player_id": 810676
+      },
+      {
+        "name": "Johnson, Sheila",
+        "name_first": "Sheila",
+        "name_last": "Johnson",
+        "shirt_number": 20,
+        "plain_player_id": 623437
+      },
+      {
+        "name": "Walker, Elizabeth",
+        "name_first": "Elizabeth",
+        "name_last": "Walker",
+        "shirt_number": 8,
+        "plain_player_id": 382031
+      },
+      {
+        "name": "Harris, Taylor",
+        "name_first": "Taylor",
+        "name_last": "Harris",
+        "shirt_number": 55,
+        "plain_player_id": 166263
+      },
+      {
+        "name": "Cook, Scott",
+        "name_first": "Scott",
+        "name_last": "Cook",
+        "shirt_number": 94,
+        "plain_player_id": 449176
+      },
+      {
+        "name": "Sanchez, Patricia",
+        "name_first": "Patricia",
+        "name_last": "Sanchez",
+        "shirt_number": 5,
+        "plain_player_id": 855364
+      },
+      {
+        "name": "Singh, Mark",
+        "name_first": "Mark",
+        "name_last": "Singh",
+        "shirt_number": 44,
+        "plain_player_id": 872744
+      },
+      {
+        "name": "Howell, Jason",
+        "name_first": "Jason",
+        "name_last": "Howell",
+        "shirt_number": 29,
+        "plain_player_id": 473238
+      },
+      {
+        "name": "King, Natalie",
+        "name_first": "Natalie",
+        "name_last": "King",
+        "shirt_number": 10,
+        "plain_player_id": 931819
+      },
+      {
+        "name": "Chang, Nathaniel",
+        "name_first": "Nathaniel",
+        "name_last": "Chang",
+        "shirt_number": 18,
+        "plain_player_id": 783463
+      },
+      {
+        "name": "Miller, Gail",
+        "name_first": "Gail",
+        "name_last": "Miller",
+        "shirt_number": 92,
+        "plain_player_id": 279564
+      },
+      {
+        "name": "Rangel, Roberto",
+        "name_first": "Roberto",
+        "name_last": "Rangel",
+        "shirt_number": 82,
+        "plain_player_id": 753175
+      },
+      {
+        "name": "Rose, Dustin",
+        "name_first": "Dustin",
+        "name_last": "Rose",
+        "shirt_number": 84,
+        "plain_player_id": 391983
+      },
+      {
+        "name": "Oneal, Nicholas",
+        "name_first": "Nicholas",
+        "name_last": "Oneal",
+        "shirt_number": 88,
+        "plain_player_id": 614194
+      },
+      {
+        "name": "Rice, Alyssa",
+        "name_first": "Alyssa",
+        "name_last": "Rice",
+        "shirt_number": 64,
+        "plain_player_id": 479000
+      },
+      {
+        "name": "Garcia, Paul",
+        "name_first": "Paul",
+        "name_last": "Garcia",
+        "shirt_number": 52,
+        "plain_player_id": 179715
+      },
+      {
+        "name": "Watson, Peter",
+        "name_first": "Peter",
+        "name_last": "Watson",
+        "shirt_number": 99,
+        "plain_player_id": 589112
+      },
+      {
+        "name": "Sanders, Alice",
+        "name_first": "Alice",
+        "name_last": "Sanders",
+        "shirt_number": 26,
+        "plain_player_id": 905067
+      },
+      {
+        "name": "Thomas, Ryan",
+        "name_first": "Ryan",
+        "name_last": "Thomas",
+        "shirt_number": 19,
+        "plain_player_id": 999569
+      },
+      {
+        "name": "Campbell, Jennifer",
+        "name_first": "Jennifer",
+        "name_last": "Campbell",
+        "shirt_number": 73,
+        "plain_player_id": 752185
+      },
+      {
+        "name": "Martinez, Charles",
+        "name_first": "Charles",
+        "name_last": "Martinez",
+        "shirt_number": 70,
+        "plain_player_id": 259777
+      },
+      {
+        "name": "Copeland, Rachel",
+        "name_first": "Rachel",
+        "name_last": "Copeland",
+        "shirt_number": 53,
+        "plain_player_id": 749874
+      },
+      {
+        "name": "Welch, Anthony",
+        "name_first": "Anthony",
+        "name_last": "Welch",
+        "shirt_number": 36,
+        "plain_player_id": 943424
+      },
+      {
+        "name": "Wilkerson, Emma",
+        "name_first": "Emma",
+        "name_last": "Wilkerson",
+        "shirt_number": 63,
+        "plain_player_id": 888707
+      },
+      {
+        "name": "Luna, Christian",
+        "name_first": "Christian",
+        "name_last": "Luna",
+        "shirt_number": 15,
+        "plain_player_id": 130067
+      },
+      {
+        "name": "Hudson, Vincent",
+        "name_first": "Vincent",
+        "name_last": "Hudson",
+        "shirt_number": 81,
+        "plain_player_id": 985092
+      },
+      {
+        "name": "Moore, Karen",
+        "name_first": "Karen",
+        "name_last": "Moore",
+        "shirt_number": 90,
+        "plain_player_id": 838594
+      },
+      {
+        "name": "Davis, Scott",
+        "name_first": "Scott",
+        "name_last": "Davis",
+        "shirt_number": 50,
+        "plain_player_id": 921704
+      },
+      {
+        "name": "Glover, Maurice",
+        "name_first": "Maurice",
+        "name_last": "Glover",
+        "shirt_number": 17,
+        "plain_player_id": 442582
+      },
+      {
+        "name": "Nguyen, Jeffrey",
+        "name_first": "Jeffrey",
+        "name_last": "Nguyen",
+        "shirt_number": 69,
+        "plain_player_id": 926382
+      },
+      {
+        "name": "Byrd, Amanda",
+        "name_first": "Amanda",
+        "name_last": "Byrd",
+        "shirt_number": 71,
+        "plain_player_id": 175222
+      }
+    ],
+    "team_name": "KKS LECH POZNAN",
+    "shirt_numbers": {
+      "19": 1,
+      "25": 1,
+      "": 2,
+      "11": 1,
+      "23": 1,
+      "20": 1,
+      "22": 1,
+      "41": 1,
+      "8": 1,
+      "44": 1,
+      "7": 1,
+      "10": 1,
+      "15": 1,
+      "56": 1,
+      "24": 1,
+      "9": 1,
+      "35": 1,
+      "30": 1,
+      "3": 1,
+      "50": 1,
+      "53": 1,
+      "18": 1,
+      "5": 1,
+      "21": 1,
+      "17": 1,
+      "58": 1,
+      "33": 1,
+      "16": 1,
+      "2": 1,
+      "43": 1,
+      "74": 1,
+      "55": 1
+    }
+  }
+}

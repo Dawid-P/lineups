@@ -1,0 +1,10 @@
+.tacticalsContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.pitchContainer {
+  margin-bottom: 30px;
+  width: 95%;
+}

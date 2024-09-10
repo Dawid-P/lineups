@@ -1,0 +1,26 @@
+.formationSelector {
+  margin-bottom: 15px;
+  display: inline-block; /* Change to inline-block */
+}
+
+.select {
+  width: auto; /* Change from 100% to auto */
+  min-width: 150px; /* Set a minimum width */
+  padding: 8px 12px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: white;
+  cursor: pointer;
+}
+
+.select:focus {
+  outline: none;
+  border-color: #3498db;
+}
+
+.label {
+  display: inline-block;
+  margin-right: 10px;
+  font-weight: bold;
+}

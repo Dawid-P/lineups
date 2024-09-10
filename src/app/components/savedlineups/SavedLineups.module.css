@@ -1,0 +1,34 @@
+.savedLineups {
+  padding: 20px;
+}
+
+.teamLineups {
+  margin-bottom: 30px;
+}
+
+.lineup {
+  margin-bottom: 20px;
+  border: 1px solid #e0e0e0;
+  padding: 15px;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+.lineup h4 {
+  margin-top: 0;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.lineup ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.lineup li {
+  margin-bottom: 5px;
+  padding: 5px;
+  background-color: #fff;
+  border-radius: 3px;
+}
