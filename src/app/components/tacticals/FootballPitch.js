@@ -92,32 +92,31 @@ const FootballPitch = ({ formation, selectedPlayers }) => {
     const totalLines = formationLines.length;
     const positions = formation.position;
 
-    let currentLine = 0;
-    let playersInCurrentLine = 0;
+    // Draw goalkeeper first
+    const goalkeeperPos = positions[0];
+    drawPlayer(
+      ctx,
+      width * 0.05,
+      height / 2,
+      goalkeeperPos,
+      selectedPlayers ? selectedPlayers[0] : null
+    );
 
-    positions.forEach((pos, index) => {
-      const selectedPlayer = selectedPlayers ? selectedPlayers[index] : null;
-
-      if (index === 0) {
-        // Goalkeeper
-        const x = width * 0.05;
-        const y = height / 2;
+    let currentIndex = 1;
+    for (let line = 0; line < totalLines; line++) {
+      const playersInLine = formationLines[line];
+      for (let i = playersInLine - 1; i >= 0; i--) {
+        // Reverse the order within each line
+        const x = width * (0.2 + 0.6 * (line / (totalLines - 1)));
+        const y = height * ((i + 1) / (playersInLine + 1));
+        const pos = positions[currentIndex];
+        const selectedPlayer = selectedPlayers
+          ? selectedPlayers[currentIndex]
+          : null;
         drawPlayer(ctx, x, y, pos, selectedPlayer);
-      } else {
-        if (playersInCurrentLine >= formationLines[currentLine]) {
-          currentLine++;
-          playersInCurrentLine = 0;
-        }
-
-        const x = width * (0.2 + 0.6 * (currentLine / (totalLines - 1)));
-        const y =
-          height *
-          ((playersInCurrentLine + 1) / (formationLines[currentLine] + 1));
-
-        drawPlayer(ctx, x, y, pos, selectedPlayer);
-        playersInCurrentLine++;
+        currentIndex++;
       }
-    });
+    }
   };
 
   const drawPlayer = (ctx, x, y, position, player) => {

@@ -57,3 +57,118 @@
   align-items: center;
   margin-bottom: 15px;
 }
+
+.viewSwitchContainer {
+  display: flex;
+  justify-content: flex-start;
+  margin-bottom: 10px;
+}
+
+.viewSwitch {
+  display: flex;
+  align-items: center;
+}
+
+.viewSwitch button {
+  padding: 3px 8px; /* Further reduced padding */
+  margin: 0 3px; /* Reduced margin */
+  border: 1px solid #007bff;
+  background-color: white;
+  color: #007bff;
+  cursor: pointer;
+  font-size: 11px; /* Even smaller font size */
+  border-radius: 3px;
+  transition: all 0.3s ease;
+}
+
+.viewSwitch button.active {
+  background-color: #007bff;
+  color: white;
+}
+
+.viewSwitch button:hover {
+  background-color: #f0f8ff;
+}
+
+.viewSwitch button.active:hover {
+  background-color: #0056b3;
+}
+
+.viewSwitchLabel {
+  font-size: 12px;
+  margin-right: 5px;
+  color: #555;
+}
+
+.listContainer {
+  width: 100%;
+  max-width: 600px; /* Increased max-width for better layout */
+  margin: 0 auto;
+}
+
+.listItem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 6px 10px; /* Reduced vertical padding */
+  border-bottom: 1px solid #e0e0e0;
+  position: relative;
+  min-height: 40px; /* Reduced minimum height */
+  font-size: 14px; /* Slightly smaller font size */
+}
+
+.listItem.unselected {
+  background-color: #f0f0f0; /* Light grey background for unselected players */
+}
+
+.positionName {
+  font-weight: bold;
+  width: 120px; /* Increased width to accommodate longer position names */
+  padding-right: 10px;
+}
+
+.shirtNumber {
+  width: 25px; /* Slightly reduced width */
+  text-align: center;
+  font-weight: bold;
+}
+
+.playerName {
+  flex-grow: 1;
+  text-align: left;
+  padding: 0 10px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.playerName.unselected {
+  color: #888; /* Slightly darker text for unselected players */
+}
+
+.listItem button {
+  padding: 5px 10px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.selectButton {
+  padding: 4px 8px; /* Reduced padding */
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 3px; /* Added slight rounding */
+  cursor: pointer;
+  min-width: 60px; /* Slightly reduced minimum width */
+  font-size: 12px; /* Smaller font size for button */
+}
+
+.selectorWrapper {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+}

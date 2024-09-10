@@ -22,6 +22,7 @@ const Slots = ({ onSaveLineup }) => {
   const [activeTeam, setActiveTeam] = useState(null);
   const slotsRef = useRef(null);
   const activeSelectorRef = useRef(null);
+  const [viewMode, setViewMode] = useState("square"); // New state for view mode
 
   useEffect(() => {
     // Load players data
@@ -140,6 +141,10 @@ const Slots = ({ onSaveLineup }) => {
     } else {
       setSelectedAwayPlayers(updatedPlayers);
     }
+
+    // Close the selector after selection
+    setActiveSlot(null);
+    setActiveTeam(null);
   };
 
   const handleSaveLineup = (team) => {
@@ -176,28 +181,70 @@ const Slots = ({ onSaveLineup }) => {
             formations={formations}
           />
         </div>
-        <div className={styles.slotsContainer}>
-          {Array(11)
-            .fill()
-            .map((_, index) => (
-              <PlayerSlot
+        {viewMode === "square" ? (
+          <div className={styles.slotsContainer}>
+            {Array(11)
+              .fill()
+              .map((_, index) => (
+                <PlayerSlot
+                  key={`${team}-${index}`}
+                  index={index}
+                  player={selectedPlayers[index]}
+                  position={positions[index] ? positions[index].name : null}
+                  onClick={() => handleSlotClick(index, team)}
+                  isActive={activeSlot === index && activeTeam === team}
+                >
+                  {activeSlot === index && activeTeam === team && (
+                    <PlayerSelector
+                      players={filterPlayers(teamPlayers, selectedPlayers)}
+                      onSelect={handleSelect}
+                      ref={activeSelectorRef}
+                    />
+                  )}
+                </PlayerSlot>
+              ))}
+          </div>
+        ) : (
+          <div className={styles.listContainer}>
+            {selectedPlayers.map((player, index) => (
+              <div
                 key={`${team}-${index}`}
-                index={index}
-                player={selectedPlayers[index]}
-                position={positions[index] ? positions[index].name : null}
-                onClick={() => handleSlotClick(index, team)}
-                isActive={activeSlot === index && activeTeam === team}
+                className={`${styles.listItem} ${
+                  !player ? styles.unselected : ""
+                }`}
               >
+                <span className={styles.positionName}>
+                  {positions[index] ? positions[index].name : ""}
+                </span>
+                <span className={styles.shirtNumber}>
+                  {player ? player.shirt_number || "-" : "-"}
+                </span>
+                <span
+                  className={`${styles.playerName} ${
+                    !player ? styles.unselected : ""
+                  }`}
+                >
+                  {player ? player.display_name || player.name : "Not selected"}
+                </span>
+                <button
+                  onClick={() => handleSlotClick(index, team)}
+                  className={styles.selectButton}
+                >
+                  Select
+                </button>
                 {activeSlot === index && activeTeam === team && (
-                  <PlayerSelector
-                    players={filterPlayers(teamPlayers, selectedPlayers)}
-                    onSelect={handleSelect}
-                    ref={activeSelectorRef}
-                  />
+                  <div className={styles.selectorWrapper}>
+                    <PlayerSelector
+                      players={filterPlayers(teamPlayers, selectedPlayers)}
+                      onSelect={handleSelect}
+                      ref={activeSelectorRef}
+                    />
+                  </div>
                 )}
-              </PlayerSlot>
+              </div>
             ))}
-        </div>
+          </div>
+        )}
         <button
           onClick={() => handleSaveLineup(team === "home" ? "Home" : "Away")}
           className={styles.saveButton}
@@ -210,6 +257,23 @@ const Slots = ({ onSaveLineup }) => {
 
   return (
     <div ref={slotsRef}>
+      <div className={styles.viewSwitchContainer}>
+        <div className={styles.viewSwitch}>
+          <span className={styles.viewSwitchLabel}>View:</span>
+          <button
+            className={viewMode === "square" ? styles.active : ""}
+            onClick={() => setViewMode("square")}
+          >
+            Square
+          </button>
+          <button
+            className={viewMode === "list" ? styles.active : ""}
+            onClick={() => setViewMode("list")}
+          >
+            List
+          </button>
+        </div>
+      </div>
       {renderTeamSlots(homePlayers, selectedHomePlayers, "home")}
       {renderTeamSlots(awayPlayers, selectedAwayPlayers, "away")}
     </div>
